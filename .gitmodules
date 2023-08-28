@@ -1,0 +1,9 @@
+[submodule "rminth"]
+	path = rminth
+	url = git@github:Dev-Myna/rminth.git
+[submodule "rpms"]
+	path = rpms
+	url = git@github:Dev-Myna/rpms.git
+[submodule "rsch"]
+	path = rsch
+	url = git@github:Dev-Myna/rsch.git
